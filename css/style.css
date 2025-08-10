@@ -5972,8 +5972,11 @@ form label.error{
 .widget-content .post:hover img{
   transform: scale(1.38)
 }
+.widget-content .post h6{
+  margin-bottom: 5px;
+}
 .widget-content .post h6 a{
-  font-size: 18px;
+  font-size: 17px;
   color: #792e31 !important;
   width: 90%;
   margin-left: auto;
