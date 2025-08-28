@@ -26,7 +26,7 @@ let Footer = `
                     <li class="text-center"><a href="index" style=" text-decoration: none;">الرئيسية</a></li>
                     <li class="text-center"><a href="about" style=" text-decoration: none;">من نحن</a></li>
                     <li class="text-center"><a href="services" style=" text-decoration: none;">خدماتنا</a></li>
-                    <li class="text-center"><a href="blog" style=" text-decoration: none;">المدونة</a></li>
+                    <li class="text-center"><a href="blog" style=" text-decoration: none;">مقالات عربي</a></li>
                     <li class="text-center"><a href="contact" style=" text-decoration: none;">اتصل بنا</a></li>
                 </ul>
             </div>
@@ -69,3 +69,4 @@ let Footer = `
 
 `
 export default Footer;
+
