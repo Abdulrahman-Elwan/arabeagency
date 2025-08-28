@@ -503,7 +503,7 @@ p{
   background-color: #D4C7B6;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/logo.png);
+  background-image: url(../images/preloader.PNG);
   animation: pulse 0.7s infinite ease;
 }
 
@@ -512,7 +512,7 @@ p{
     transform: scale(1);
   }
   50% {
-    transform: scale(1.1);
+    transform: scale(1.099);
   }
   100% {
     transform: scale(1);
